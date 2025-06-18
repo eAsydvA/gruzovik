@@ -1,0 +1,5 @@
+npm init -y
+
+npm i pg express nodemon dotenv bcrypt body-parser crypto
+
+npm install express-session
